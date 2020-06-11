@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.263317dc.chunk.css",
+    "main.js": "/static/js/main.ca5c595e.chunk.js",
+    "main.js.map": "/static/js/main.ca5c595e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.89c5cc6a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.89c5cc6a.js.map",
+    "static/js/2.af862caa.chunk.js": "/static/js/2.af862caa.chunk.js",
+    "static/js/2.af862caa.chunk.js.map": "/static/js/2.af862caa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b33f657487cb9a2e9936dbbfa42fc0a4.js": "/precache-manifest.b33f657487cb9a2e9936dbbfa42fc0a4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.263317dc.chunk.css.map": "/static/css/main.263317dc.chunk.css.map",
+    "static/media/App.css": "/static/media/warm-bg.635ed87d.jpg",
+    "static/media/facebook.PNG": "/static/media/facebook.117c4a5c.PNG",
+    "static/media/google.PNG": "/static/media/google.2c508400.PNG",
+    "static/media/signin-image.webp": "/static/media/signin-image.86488bc6.webp",
+    "static/media/signup-image.webp": "/static/media/signup-image.19501052.webp",
+    "static/media/twitter.PNG": "/static/media/twitter.b8cb68fd.PNG"
+  }
+}
